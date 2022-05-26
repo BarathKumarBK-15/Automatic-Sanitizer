@@ -17,12 +17,12 @@ Normal hand sanitizer dispensers work on mechanical triggers such as pressing th
 <img src = "./cd.jpg"/>
 
 ## References
-- Interfacing Arduino UNO with DC Pump 
-https://arduinogetstarted.com/tutorials/arduino-controls-pump
-- Relay Module with Arduino UNO   
-https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/
-- DIY Alcohol Sanitizer Dispenser
-https://youtu.be/MFMICxmj2Bs
+- Interfacing Arduino UNO with DC Pump <br>
+[https://arduinogetstarted.com/tutorials/arduino-controls-pump]
+- Relay Module with Arduino UNO   <br>
+[https://randomnerdtutorials.com/guide-for-relay-module-with-arduino/]
+- DIY Alcohol Sanitizer Dispenser<br>
+[https://youtu.be/MFMICxmj2Bs]
 
 
 ## Contributors
